@@ -1,0 +1,8 @@
+order_id,customer_id,product,amount,city
+1,101,Mobile,15000,Pune
+2,102,Laptop,55000,Mumbai
+3,103,Headphones,2000,Delhi
+4,104,Tablet,12000,Bangalore
+5,105,Mobile,18000,Pune
+6,106,Laptop,60000,Mumbai
+7,107,Tablet,14000,Delhi
