@@ -1,0 +1,11 @@
+{
+  "name": "retail_pipeline",
+  "activities": [
+    {
+      "name": "CopyData",
+      "type": "Copy",
+      "source": "External API",
+      "sink": "Azure Data Lake"
+    }
+  ]
+}
