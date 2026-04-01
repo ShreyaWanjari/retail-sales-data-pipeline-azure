@@ -4,6 +4,11 @@
 ## Overview
 This project demonstrates an end-to-end ETL pipeline using Azure services.
 
+## Project Structure
+- data/ : Contains raw dataset
+- notebooks/ : PySpark transformation scripts
+- pipeline/ : Azure Data Factory pipeline definition
+  
 ## Tools Used
 - Azure Data Factory (ADF)
 - Azure Data Lake Storage (ADLS Gen2)
